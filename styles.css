@@ -6,4 +6,5 @@ body {
 .svg-holder {
   width: 60px;
   height: 60px;
+  background-image: url(/gold-burguer-menu.svg);
 }
